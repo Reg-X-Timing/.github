@@ -1,8 +1,11 @@
-# Reg X Timing
-
 ![Reg X Timing Logo](https://regxtiming.com/logo-combined2.png)
 
 Reg X Timing provides professional race registration and timing services for events ranging from 5Ks to full triathlons.
+
+## Owners & Creators
+
+- [@dalton-baker](https://github.com/dalton-baker)
+- [@jeremyjthomas2](https://github.com/jeremyjthomas2)
 
 ## What We Offer
 
