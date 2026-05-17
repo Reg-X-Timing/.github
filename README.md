@@ -17,6 +17,6 @@ Reg X Timing provides professional race registration and timing services for eve
 ## Learn More
 
 - Main site: [regxtiming.com](https://regxtiming.com)
-- Organizer portal: [prd1-management.azurewebsites.net](https://prd1-management.azurewebsites.net/)
+- Organizer portal: [manage.regxtiming.com](https://manage.regxtiming.com/)
 - Participant events: [register.regxtiming.com/upcomingEvents](https://register.regxtiming.com/upcomingEvents)
 - Support: [support@regxtiming.com](mailto:support@regxtiming.com)
